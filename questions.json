@@ -1,0 +1,221 @@
+{
+    "operators" : {
+
+        "megafon" : {
+            "0" : "\tMaximum - 700 rub./month\n- Protection against unwanted subscriptions\n- Messengers are available even at zero\n- SMS package is included in the tariff\n- Calls 800 minutes\n- Unlimited Internet",
+            "1" : "\tEverything - 500 rubles/month\n- Protection against unwanted subscriptions\n- Gigabytes saved and accumulated\n- Messengers are available even at zero\nCalls 600 minutes\nInternet 25 GB",
+            "2" : "\tInternet - 400 rubles/month\n- Protection against unwanted subscriptions\n- Gigabytes saved and accumulated\n- Messengers are available even at zero\n- Calls 300 minutes\nInternet 10 GB",
+            "3" : "\tCalls - 400 rubles/month\n- Protection against unwanted subscriptions\n- Gigabytes saved and accumulated\n- Messengers are available even at zero\n- Calls to MegaFon do not consume minutes\n- Calls 400 minutes\n- Internet 4 GB",
+            "4" : "\tMinimum - 310 RUB/month\n- Protection against unwanted subscriptions\n- Gigabytes saved and accumulated\n- Messengers are available even at zero\n- Calls to MegaFon do not consume minutes\n- Calls 200 minutes\n- Internet3 GB",
+            "5" : "\tVIP - 900 rubles/month\n- Protection against unwanted subscriptions\n- Messengers are available even at zero\n- SMS package is included in the tariff\n- Calls 1500 minutes\n- Unlimited Internet",
+            "6" : "\tPremium - 2000 RUB/month\n- Protection against unwanted subscriptions\n- Messengers are available even at zero\n- SMS package is included in the tariff\n- Calls 3000 minutes\n- Unlimited Internet"
+        },
+        "tele2" : {
+            "0" : "\tMy online - 350 rub/month\n- unlimited on Tele2 Russia\n- 400 minutes to other mobile numbers in the home region\n- 20 gigabytes\n- Social networks and instant messengers unlimited\n- 10% discount on the monthly fee when buying and combining in\ngroup 4 SIM\n\n",
+            "1" : "\tMy online+ - 450 rub/month\n- unlimited on Tele2 Russia\n- 600 minutes to other Russian numbers\n- 30 gigabytes\n- Social networks and messengers unlimited\n- 10% discount on the subscription fee when buying and combining in\nGroup 4 SIM",
+            "2" : "\tMy conversation - 250 rub/month\n- unlimited on Tele2 Russia\n- 200 minutes to other mobile numbers in the home region\n- 10 gigabytes\n- 10% discount on the subscription fee when buying and combining in \nGroup 4 SIM",
+            "3" : "\tLight - 10rub/day\n- unlimited on Tele2 Russia\n- 15 gigabytes",
+            "4" : "\tUnlimited - 650 rub/month\n- unlimited on Tele2 Russia\n- 500 minutes to other Russian numbers\n- unlimited internet",
+            "5" : "\tPremium - 1500 rub/month\n- unlimited on Tele2 Russia\n- 2000 minutes\n- International roaming without surcharges\n- Unlimited calls within the Tele2 Russia network\n- Dedicated line service"
+        },
+        "mts" : {
+            "0" : "\tTariff - 650 rub./month\n- Option 'UNLIMITED Internet'\n- Calls to all networks in Russia\n- Unlimited (with option) 25 GB (without option)\n- 500 minutes\n- 500 SMS",
+            "1" : "\tMy smart - 575 rubles/month\n- 15 gigabytes\n- 400 minutes\n- 400 SMS",
+            "2" : "\tOur Smart - 1040 rubles/month\n- Use on your own or share with your family\n- Unlimited Internet\n- 1500 min to all networks\n- Up to 5 additional numbers",
+            "3" : "\tTariff 'X' - 520 rub./month\n- Unlimited on YouTube and other popular resources\n- + rest internet 7 GB\n- 100 minutes to all networks",
+            "4" : "\tSmart - 420 RUB/month\n- Basic package of internet and minutes\n- 5 GB\n- 200 min to all networks\nUnlimited calls to MTS region",
+            "5" : "\tSmart Top - 2025 RUB/month\n- For those who do not limit themselves in communication\n- 3000 min to all networks\n- Unlimited calls to MTS Russia\n- Unlimited Internet",
+            "6" : "\tULTRA - 2900 rubles/month\n- Many minutes and internet, Premium service\n- 5000 min to all networks\n- Premium service\n- Unlimited Internet"
+        },
+        "beeline" : {
+            "0" : "\tNot alone at home - 600 rubles/month\n- 20 gigabytes\n- 500 minutes\n- 300 SMS\n- Cloud 10 GB\n- Magazines/Movies + serials and TV",
+            "1" : "\tNot alone at home 2 - 750 rubles/month\n- 30 gigabytes\n- 1000 minutes\n- 300 SMS\n- Cloud 10 GB\n- Magazines/Movies + serials and TV",
+            "2" : "\tClose people 1 - 400 rubles/month\n- 15 gigabytes + unlimited messengers\n- 400 minutes\n- 300 SMS\n- As a gift to the tariff of 20 TV channels\n- Share 15 GB with 1 number",
+            "3" : "\tClose people 2 - 500 rubles/month\n- 20 gigabytes + unlimited messengers\n- 700 minutes\n- 300 SMS\n- As a gift to the tariff of 20 TV channels\n- Share 20 GB with 1 number",
+            "4" : "\tClose people 3 - 650 rubles/month\n- Unlimited internet + unlimited distribution\n- 1200 minutes\n- 300 SMS\n- As a gift to the tariff of 75 TV channels\n- Connect one more number to the tariff",
+            "5" : "\tClose people 4 - 900 rubles/month\n- Unlimited internet + unlimited distribution\n- 1800 minutes\n- 300 SMS\n- As a gift to the tariff of 155 TV channels\n- Connect two more numbers to the tariff",
+            "6" : "\tClose people 5 - 1500 rubles/month\n- Unlimited internet + unlimited distribution\n- 2500 minutes\n- 300 SMS\n- As a gift to the tariff of 155 TV channels\n- Connect three more numbers to the tariff",
+            "7" : "\tClose people 6 - 2500 rubles/month\n- Unlimited internet + unlimited distribution\n- 4000 minutes\n- 300 SMS\n- As a gift to the tariff of 195 TV channels\n- Connect five more numbers to the tariff"
+        },
+        "yota" : {
+            "0" : "\tMore internet - 366.79rub/month\n- 105 minutes\n- 15 GB",
+            "1" : "\tMore minutes - 311.96rub/month\n- 305 minutes\n- 5 GB",
+            "2" : "\t even more minutes and internet - 479.80rub/month\n- 585 minutes\n- Unlimited Internet"
+        }
+    },
+
+    "questions": {
+        
+        "1" : {
+            
+            "text" : "For what purposes do you most often use your phone?",
+            
+            "1" : {
+                "text" : "Calls and SMS",
+                "megafon" : [0, 1, 5, 6],
+                "tele2" : [1, 4, 5],
+                "mts" : [0, 2, 5, 6],
+                "beeline" : [0, 1, 3, 4, 5, 6, 7],
+                "yota" : [2]
+            },
+            
+            "2" : {
+                "text" : "Social networks",
+                "megafon" : [0, 5, 6],
+                "tele2" : [4, 5],
+                "mts" : [0, 2, 3, 5, 6],
+                "beeline" : [4, 5, 6, 7],
+                "yota" : [2]
+            },
+            "3" : {
+                "text" : "Third party services (YouTube, browser, mobile games, etc.)",
+                "megafon" : [0, 5, 6],
+                "tele2" : [4, 5],
+                "mts" : [0, 2, 5, 6],
+                "beeline" : [4, 5, 6, 7],
+                "yota" : [2]
+            },
+            "4" : {
+                "text" : "All options",
+                "megafon" : [0, 5, 6],
+                "tele2" : [5],
+                "mts" : [2, 5, 6],
+                "beeline" : [4, 5, 6, 7],
+                "yota" : []
+            }
+        },
+
+        "2" : {
+            "text" : "Which mobile operator is the most popular among your relatives (acquaintances)?",
+            "1" : {
+                "text" : "Tele 2",
+                "megafon" : [],
+                "tele2" : [0, 1, 2, 3, 4, 5],
+                "mts" : [],
+                "beeline" : [],
+                "yota" : []
+            },
+            "2" : {
+                "text" : "Mts",
+                "megafon" : [],
+                "tele2" : [],
+                "mts" : [0, 1, 2, 3, 4, 5, 6],
+                "beeline" : [],
+                "yota" : []
+            },
+            "3" : {
+                "text" : "Megafon",
+                "megafon" : [0, 1, 2, 3, 4, 5, 6],
+                "tele2" : [],
+                "mts" : [],
+                "beeline" : [],
+                "yota" : []
+            },
+            "4" : {
+                "text" : "Beeline",
+                "megafon" : [],
+                "tele2" : [],
+                "mts" : [],
+                "beeline" : [0, 1, 2, 3, 4, 5, 6, 7],
+                "yota" : []
+            },
+            "5" : {
+                "text" : "Yota",
+                "megafon" : [],
+                "tele2" : [],
+                "mts" : [],
+                "beeline" : [],
+                "yota" : [0, 1, 2]
+            }
+        },
+
+        "3" : {
+            "text" : "Where do you most often make calls?",
+            "1" :{
+                "text" : "To home region",
+                "megafon" : [],
+                "tele2" : [],
+                "mts" : [],
+                "beeline" : [],
+                "yota" : []
+            },
+            "2" : {
+                "text" : "All around Russia",
+                "megafon" : [],
+                "tele2" : [],
+                "mts" : [],
+                "beeline" : [],
+                "yota" : []
+            }
+        },
+
+        "4" : {
+            
+            "text" : "How many minutes on average do you spend on calls per month?",
+            
+            "1" :{
+                "text" : "100-300",
+                "megafon" : [2, 4],
+                "tele2" : [2],
+                "mts" : [3, 4],
+                "beeline" : [],
+                "yota" : [0]
+            },
+            "2" : {
+                "text" : "300-500",
+                "megafon" : [2, 3],
+                "tele2" : [0, 4],
+                "mts" : [0, 1],
+                "beeline" : [0, 2],
+                "yota" : [1]
+            },
+            "3" : {
+                "text" : "500+",
+                "megafon" : [0, 1, 5, 6],
+                "tele2" : [1, 3, 4, 5],
+                "mts" : [2, 5, 6],
+                "beeline" : [0, 1, 3, 4, 5, 6, 7],
+                "yota" : [2]
+            }
+        },
+
+        "5" : {
+            
+            "text" : "How many SMS do you send per day on average?",
+            
+            "1" :{
+                "text" : "0-2",
+                "megafon" : [0, 5, 6],
+                "tele2" : [],
+                "mts" : [0, 1, 2, 3, 4, 5, 6],
+                "beeline" : [0, 1, 2, 3, 4, 5, 6, 7],
+                "yota" : []
+            },
+            "2" : {
+                "text" : "3-10",
+                "megafon" : [0, 5, 6],
+                "tele2" : [],
+                "mts" : [0, 1, 2, 3, 4, 5, 6, 7],
+                "beeline" : [0, 1, 2, 3, 4, 5, 6, 7],
+                "yota" : []
+            },
+            "3" : {
+                "text" : "11 or more",
+                "megafon" : [],
+                "tele2" : [],
+                "mts" : [0, 1, 5, 6],
+                "beeline" : [],
+                "yota" : []
+            },
+            "4" : {
+                "text" : "Difficult to answer",
+                "megafon" : [],
+                "tele2" : [],
+                "mts" : [],
+                "beeline" : [],
+                "yota" : []
+            }
+        }
+
+    }
+}
